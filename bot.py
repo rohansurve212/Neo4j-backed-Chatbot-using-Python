@@ -15,8 +15,7 @@ if "messages" not in st.session_state:
 def handle_submit(message):
     """
     Submit handler:
-
-    You will modify this method to talk with an LLM and provide
+    This method talks with an LLM and provides
     context using data from Neo4j.
     """
 
