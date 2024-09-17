@@ -34,7 +34,7 @@ tools = [
     )
 ]
 
-# Create chat history callback
+# Create the chat history callback
 from langchain_community.chat_message_histories import Neo4jChatMessageHistory
 def get_memory(session_id):
     return Neo4jChatMessageHistory(session_id=session_id, graph=graph)
