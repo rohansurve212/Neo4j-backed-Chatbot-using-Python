@@ -1,6 +1,6 @@
 = Build an Neo4j-backed Chatbot using Python
 
-This chatbot was built by following the course on link:https://graphacademy.neo4j.com/courses/llm-chatbot-python/?ref=github[Build an Neo4j-backed Chatbot using Python^] course on link:https://graphacademy.neo4j.com/?ref=github[Neo4j GraphAcademy^].
+This chatbot was built by following the course on link:https://graphacademy.neo4j.com/courses/llm-chatbot-python/?ref=github[Build a Neo4j-backed Chatbot using Python^] course on link:https://graphacademy.neo4j.com/?ref=github[Neo4j GraphAcademy^].
 
 
 == Running the application
