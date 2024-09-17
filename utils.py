@@ -5,7 +5,7 @@ from streamlit.runtime.scriptrunner.script_run_context import get_script_run_ctx
 def write_message(role, content, save = True):
     """
     This is a helper function that saves a message to the
-     session state and then writes a message to the UI
+    session state and then writes a message to the UI
     """
     # Append to session state
     if save:
