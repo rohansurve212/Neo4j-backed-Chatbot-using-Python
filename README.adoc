@@ -1,6 +1,6 @@
-= Build an Neo4j-backed Chatbot using Python
+= Build a Neo4j-backed Chatbot using Python
 
-This chatbot was built by following a course with the same name on link:https://graphacademy.neo4j.com/?ref=github[Neo4j GraphAcademy^].
+This chatbot was built by following a course with the same name on the link:https://graphacademy.neo4j.com/?ref=github[Neo4j GraphAcademy^].
 
 
 == Running the application
@@ -11,7 +11,7 @@ To run the application, you must install the libraries listed in `requirements.t
 pip install -r requirements.txt
 
 
-Then run the `streamlit run` command to start the app on link:http://localhost:8501/[http://localhost:8501/^].
+Then run the `streamlit run` command to start the app on the link:http://localhost:8501/[http://localhost:8501/^].
 
 [source,sh]
 streamlit run bot.py
